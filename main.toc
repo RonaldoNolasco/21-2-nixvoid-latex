@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}LaTeX basico}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Cuerpo del documento}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Formato de texto}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Imagenes y figuras}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Listas y enumeraciones}{4}{}%
+\contentsline {section}{\numberline {2}LaTeX intermedio}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Expresiones y formulas matemáticas}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Tablas}{6}{}%
